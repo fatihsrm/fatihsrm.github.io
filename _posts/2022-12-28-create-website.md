@@ -1,3 +1,12 @@
+---
+layout: post
+title: Creating a Website
+subtitle: How can i create a website
+categories: website
+tags: [website,content]
+---
+
+
 Step 1: Get a domain name and URL
 It's important to choose a good domain name. It affects:
 
